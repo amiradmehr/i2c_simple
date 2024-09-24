@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "i2c-simple",
-    "project_version":    "1",
+    "project_version":    "593c623-dirty",
     "project_path":       "C:/Users/amirr/Downloads/ESP/i2c_simple",
     "idf_path":           "C:/esp/esp-idf",
     "build_dir":          "C:/Users/amirr/Downloads/ESP/i2c_simple/build",
